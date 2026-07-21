@@ -18,3 +18,5 @@ No security or vulnerability work, credential handling, production access, or pr
 ## Free toolkit
 
 [CI Rescue Kit 1.0.0](https://github.com/Yunczo/ci-rescue-service/releases/tag/toolkit-v1.0.0) is the MIT-licensed offline diagnostic used for the public examples. Its published checksum and full test run are independently inspectable.
+
+If it saved you time, [optional Bitcoin support](https://github.com/Yunczo/ci-rescue-service/blob/main/SUPPORT.md) helps maintain it. Support is not a service purchase.
