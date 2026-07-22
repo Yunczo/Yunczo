@@ -34,3 +34,11 @@ The Action writes a Markdown report and job summary, makes no network requests, 
 [CI Rescue Kit 1.0.0](https://github.com/Yunczo/ci-rescue-service/releases/tag/toolkit-v1.0.0) is the MIT-licensed offline diagnostic used for the public examples. Its published checksum and full test run are independently inspectable.
 
 If it saved you time, [optional Bitcoin support](https://github.com/Yunczo/ci-rescue-service/blob/main/SUPPORT.md) helps maintain it. Support is not a service purchase.
+
+## CleanQuote for cleaning businesses
+
+CleanQuote is a US$9 cleaning quote and profit workbook with five editable service presets, a printable client quote, and an actual-versus-quoted job log. The public page includes a free live calculator and real workbook screenshots.
+
+[Try the calculator or request an encrypted order](https://yunczo.github.io/cleanquote-profit-toolkit/) · [Inspect the public storefront source](https://github.com/Yunczo/cleanquote-profit-toolkit)
+
+The paid ZIP stays private until a signed BTC quote is accepted and confirmed. No login or email is required. It is a decision-support tool for current desktop Excel; Google Sheets formatting and feature parity are not guaranteed, and no profit result is promised.
