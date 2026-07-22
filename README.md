@@ -12,7 +12,7 @@ No login, email, credentials, private data, or analytics access is needed. Payme
 
 ## Available now: CI Rescue
 
-One failing GitHub Actions workflow, one focused diagnosis, and one reviewable patch.
+One GitHub Actions workflow, one focused repair or proactive Node 24 migration, and one reviewable patch.
 
 - **US$49 equivalent in Bitcoin**
 - Scope response normally within 24 hours
@@ -20,7 +20,7 @@ One failing GitHub Actions workflow, one focused diagnosis, and one reviewable p
 - No login or email; payment is requested only after written scope acceptance
 - Public synthetic proof, runnable CI verification, and no invented client claims
 
-[Send an encrypted scope request](https://yunczo.github.io/ci-rescue-service/#anonymous-intake) · [View the service](https://yunczo.github.io/ci-rescue-service/) · [Inspect the proof run](https://github.com/Yunczo/ci-rescue-service/actions/workflows/public-proof.yml)
+[Send an encrypted scope request](https://yunczo.github.io/ci-rescue-service/#anonymous-intake) · [Start a Node 24 migration request](https://yunczo.github.io/ci-rescue-service/?request=node24#anonymous-intake) · [View the service](https://yunczo.github.io/ci-rescue-service/) · [Inspect the proof run](https://github.com/Yunczo/ci-rescue-service/actions/workflows/public-proof.yml)
 
 No security or vulnerability work, credential handling, production access, or private data is accepted through public issues.
 
