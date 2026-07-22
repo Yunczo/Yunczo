@@ -2,6 +2,14 @@
 
 I build small, inspectable tools with clear privacy and delivery boundaries.
 
+## Landing Page Clarity Audit
+
+One public landing page, one intended audience, and one primary conversion goal. The US$19 BTC-equivalent delivery includes five prioritized clarity findings, a complete replacement hero block, three practical test ideas, and a seven-day implementation order.
+
+[Inspect the synthetic example or send an encrypted request](https://yunczo.github.io/landing-page-clarity-audit/) · [Read the fixed scope and source](https://github.com/Yunczo/landing-page-clarity-audit)
+
+No login, email, credentials, private data, or analytics access is needed. Payment is requested only after a signed scope acceptance. This is writing direction—not code implementation, security testing, legal review, or a guarantee of business results.
+
 ## Available now: CI Rescue
 
 One failing GitHub Actions workflow, one focused diagnosis, and one reviewable patch.
